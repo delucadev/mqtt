@@ -19,7 +19,7 @@ while True:
         break
     else:
         randNumber = values['temp']
-        client.publish("TEMPERATURA", randNumber)
+        client.publish("TemperaturaInterna", randNumber)
         print(f"Acabado de publicar {randNumber} para o tópico TEMPERATURA")
 
 window.close()
