@@ -1,5 +1,4 @@
 ## SIMPLES MQTT DE TEMPERATURA USANDO O PADRÃO PUBLISH/SUBSCRIBE
-_________________________________________________________________
 
 ### Dependências:
   - Instalar o python3 + pip
